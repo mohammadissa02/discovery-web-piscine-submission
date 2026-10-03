@@ -1,7 +1,7 @@
 Git Workflow
 
 1. Edit
-Edited README.md.
+nano README.md
 
 2. Add
 git add README.md
