@@ -1,0 +1,13 @@
+Git Workflow
+
+1. Edit
+Create or modify the project files.
+
+2. Add
+git add .
+
+3. Commit
+git commit -m "Add project documentation"
+
+4. Push
+git push -u origin main

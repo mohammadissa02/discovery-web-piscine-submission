@@ -1,0 +1,40 @@
+.:
+total 0
+drwxr-xr-x  5 mohissa _amman  51 Oct  1 10:36 .
+drwx------ 17 mohissa _amman 326 Oct  1 10:33 ..
+drwxr-xr-x  2 mohissa _amman   6 Oct  1 10:36 archives
+drwxr-xr-x  3 mohissa _amman  17 Oct  1 10:43 projects
+drwxr-xr-x  2 mohissa _amman   6 Oct  1 10:36 tools
+
+./archives:
+total 0
+drwxr-xr-x 2 mohissa _amman  6 Oct  1 10:36 .
+drwxr-xr-x 5 mohissa _amman 51 Oct  1 10:36 ..
+
+./projects:
+total 0
+drwxr-xr-x 3 mohissa _amman 17 Oct  1 10:43 .
+drwxr-xr-x 5 mohissa _amman 51 Oct  1 10:36 ..
+drwxr-xr-x 4 mohissa _amman 37 Oct  1 10:43 web
+
+./projects/web:
+total 0
+drwxr-xr-x 4 mohissa _amman 37 Oct  1 10:43 .
+drwxr-xr-x 3 mohissa _amman 17 Oct  1 10:43 ..
+drwxr-xr-x 2 mohissa _amman  6 Oct  1 10:43 backend
+drwxr-xr-x 2 mohissa _amman  6 Oct  1 10:43 frontend
+
+./projects/web/backend:
+total 0
+drwxr-xr-x 2 mohissa _amman  6 Oct  1 10:43 .
+drwxr-xr-x 4 mohissa _amman 37 Oct  1 10:43 ..
+
+./projects/web/frontend:
+total 0
+drwxr-xr-x 2 mohissa _amman  6 Oct  1 10:43 .
+drwxr-xr-x 4 mohissa _amman 37 Oct  1 10:43 ..
+
+./tools:
+total 0
+drwxr-xr-x 2 mohissa _amman  6 Oct  1 10:36 .
+drwxr-xr-x 5 mohissa _amman 51 Oct  1 10:36 ..
