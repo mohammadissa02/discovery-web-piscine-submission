@@ -20,9 +20,9 @@ Git makes development easier by keeping track of changes made to files over time
 **Team collaboration:** Multiple developers can work on the same project and keep track of their changes. Git shows conflicts instead of silently overwriting someone's work, and GitHub gives the team one place to store and share the project.
 
 ## Git Workflow
-1. Edit files
-2. Add changes with `git add`
-3. Commit changes with `git commit`
+1. Edit files with `nano README.md`
+2. Add changes with `git add README.md`
+3. Commit changes with `git commit -m "message"`
 4. Push changes to GitHub with `git push`
 
 The recorded cycle is in git_workflow.txt.
