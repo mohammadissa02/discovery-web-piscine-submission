@@ -4,7 +4,7 @@ Git Workflow
 Edited README.md.
 
 2. Add
-git add .
+git add README.md
 
 3. Commit
 git commit -m "Update README"
