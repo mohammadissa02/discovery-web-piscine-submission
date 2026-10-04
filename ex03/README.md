@@ -11,13 +11,17 @@ This project covers the fundamentals of Linux, Git, GitHub, and secure Git authe
 
 ## Why Git Makes Development Easier
 
-Git makes development easier by keeping track of changes made to files over time. It allows developers to save different versions of their work, so they can review changes or return to an earlier version if needed.
+Git makes development easier because it keeps track of changes to files. It lets developers save different versions of their work and go back to an older version when needed.
 
-**Safeguarding code:** Git keeps every saved version of the project. If I break something, I can go back to a version that worked. When I push to GitHub, there is also a copy online, so my code is safe if my computer fails.
+**Safeguarding code:**
+Git saves the changes I make in commits. If something goes wrong, I can go back to an earlier version. GitHub also keeps a copy of the project online.
 
-**Tracking history:** Each commit records what was changed, who changed it, and when. The commit message explains why. This makes it easier to find when a problem started.
+**Tracking history:**
+Git keeps a history of the changes made to the project. Each commit has a message that helps me understand what was changed.
 
-**Team collaboration:** Multiple developers can work on the same project and keep track of their changes. Git shows conflicts instead of silently overwriting someone's work, and GitHub gives the team one place to store and share the project.
+**Team collaboration:**
+Git helps multiple developers work on the same project. It keeps track of each person's changes and helps manage conflicts. GitHub also makes it easier to share the project with the team.
+
 
 ## Git Workflow
 1. Edit files with `nano README.md`
